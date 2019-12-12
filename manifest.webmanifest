@@ -6,7 +6,7 @@
   "display": "standalone",
   "description":"App by paramatrix to manage all your investments",
   "scope": "/",
-  "start_url": "/esp",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
